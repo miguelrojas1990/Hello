@@ -2,6 +2,5 @@
 
 This is Mike, from data science. A passionate drummer and a lover of efficiency.
 
-![ ]([https://giphy.com/clips/originals-funk-funky-vibes-M7l5CurasRDCmzeDvk](https://media.giphy.com/media/4Lyd8tJk410iI/giphy.gif)
-
-[fuente: Gipfy](https://giphy.com/clips/originals-funk-funky-vibes-M7l5CurasRDCmzeDvk)  
+<img src="https://i.gifer.com/fetch/w300-preview/94/9467a64361152a9022ff1266944e04c7.gif" alt= "Drums"/>
+|[Fuente: VSGIF](https://i.gifer.com/fetch/w300-preview/94/9467a64361152a9022ff1266944e04c7.gif) |
